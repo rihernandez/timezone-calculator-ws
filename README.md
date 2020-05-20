@@ -35,7 +35,7 @@ http://localhost:8080/api/v1/time-zone
 ```
 - To see this app running online go to :
 ```
-https://timezone-calculator-ws.herokuapp.com/swagger-ui.html#/time-zone-calculator
+[- To see this app running online click here! : ](https://timezone-calculator-ws.herokuapp.com/swagger-ui.html#/time-zone-calculator)
 ```
 
 
