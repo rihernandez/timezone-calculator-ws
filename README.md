@@ -28,15 +28,13 @@ or
 http://localhost:8080/swagger-ui.html#/time-zone-calculator
 ```
 
--To make a request you have available these endpoints:
+- To make a request you have available these endpoints:
 ```
 http://localhost:8080/api/v1/current-datetime
 http://localhost:8080/api/v1/time-zone
 ```
-- To see this app running online go to :
-```
-[To see this app running online click here](https://timezone-calculator-ws.herokuapp.com/swagger-ui.html#/time-zone-calculator)
-```
+
+[- To see this app running online click here](https://timezone-calculator-ws.herokuapp.com/swagger-ui.html#/time-zone-calculator)
 
 
 
