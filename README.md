@@ -2,7 +2,7 @@
 
 ## REST API using springboot
 
-- This RESFull has a simple endpoint that alow calculate time zones sending through POST HTTP protocol an object with the below format:
+- This RESFull has a simple endpoint that allows the calculation of time zones sent through a POST request, containing an object with the following format:
 
 ```
 {
